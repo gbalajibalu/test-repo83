@@ -1,0 +1,2 @@
+
+1.can you explain branching strategies?what kind of strategies you maintaining? how you maintained the branches? how many branches you have?ans:Initially developers push the code to dev-br.from there the code is merged into the test branches like qa-br,uat-br and after the code is merged into the master branch.once the code is ready in master branch of the non production repository.we raise a pull request then the code is available in production repository.
